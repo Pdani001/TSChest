@@ -1,0 +1,9 @@
+name: TSChests
+version: '1.0'
+main: sammy.tschests.TSChests
+api-version: '1.20'
+commands:
+  tschest:
+    usage: /tschest
+    description: get a key that allows you to open chests for players
+    permission: tsc
